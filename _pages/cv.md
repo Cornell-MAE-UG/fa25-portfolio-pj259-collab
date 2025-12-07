@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Pokkrit Jeerapat> - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [pj259@cornell.edu](mailto:pj259@cornell.edu) | | | **Phone:** +978 809 9586
 
 ---
 
@@ -20,11 +20,11 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.302/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **Northfield Mount Hermon**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2023]
 
 ---
 
@@ -36,35 +36,35 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Wiribed**:  
+  *Founder & Designer*  
+  - Designed and produced origami-inspired interlocking, easy-to-assemble, and sustainable $45 hospital beds  
+  - Distributed over 1000 Wiribeds with support from individual donors and companies 
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Kiteboarding Club at Cornell**:  
+  *President*  
+  - Gather a group of students and faculties to participate in kiteboarding and other wind sports, like wing foiling, ensuring safe environments. 
+  - Allocating the funds, and investing to maintain and improve the equipment.  
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **YDM Digital Marketing Agency - Intern**  
+  [June, 2025] - [August, 2025]  
+  - Create marketing plan for cooperate companies in Thailand
+  - Run the production and communicate with the production team and influencers.
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- 2nd Place Best Young Innovator Awards, International
+Invention Innovation Competition in Canada (ICAN)  
+- Gold Medal, ICAN Competition 2022 - for Wiribed  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Wakeboarding, Wakeskating, Kite surfing, Jet skiing, Mountain Biking, Certified Scuba Diver, Piano, Drum, Guitar and Traveling
 
 ---
 
